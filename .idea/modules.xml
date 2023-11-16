@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/atm.iml" filepath="$PROJECT_DIR$/.idea/atm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/directory/directory.iml" filepath="$PROJECT_DIR$/directory/directory.iml" />
+    </modules>
+  </component>
+</project>
